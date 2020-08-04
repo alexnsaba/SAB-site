@@ -1082,24 +1082,24 @@
                     <div class="col-12 col-lg-9 p-0">
                         <div class="row">
                             <div class="col-12 col-lg-4 p-3 text-center text-lg-left item">
-                                <h4 class="title">Get in Touch</h4>
+                                <h4 class="title">Head Office</h4>
                                 <ul class="navbar-nav">
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="#contact" class="nav-link">
                                             <i class="icon-phone mr-2"></i>
-                                            +1 123 98765 4321
+                                            +250 784 485 654 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +250 788 391 137
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="#contact" class="nav-link">
                                             <i class="icon-envelope mr-2"></i>
-                                            hello@business.com
+                                            inforw@sabcore.com
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="#contact" class="nav-link">
                                             <i class="icon-location-pin mr-2"></i>
-                                            Office Street, 123
+                                            Nyarugenge, Kigali, Rwanda.
                                         </a>
                                     </li>
                                     <li class="nav-item">
@@ -1110,55 +1110,57 @@
                                 </ul>
                             </div>
                             <div class="col-12 col-lg-4 p-3 text-center text-lg-left item">
-                                <h4 class="title">Our Services</h4>
+                                <h4 class="title">Kampala Branch</h4>
                                 <ul class="navbar-nav">
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Website Development</a>
+                                        <a href="#" class="nav-link">
+                                            <i class="icon-phone mr-2"></i>
+                                            +256 787 946 565<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            +256 776 701 608<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            +256 783 861 192
+
+                                        </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Building Applications</a>
+                                        <a href="#contact" class="nav-link">
+                                            <i class="icon-envelope mr-2"></i>
+                                            infoug@sabcore.com
+                                        </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">SEO & Digital Marketing</a>
+                                        <a href="#contact" class="nav-link">
+                                            <i class="icon-location-pin mr-2"></i>
+                                            Sir Apollo rd, Kampala, Uganda.
+                                        </a>
                                     </li>
-                                    <li class="nav-item">
-                                        <a href="#" class="nav-link">Branding and Identity</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="#" class="nav-link">Digital Images & Videos</a>
-                                    </li>
+
                                 </ul>
                             </div>
                             <div class="col-12 col-lg-4 p-3 text-center text-lg-left item">
-                                <h4 class="title">Popular Tags</h4>
-                                <a href="#"><span class="badge tag">Mobile</span></a>
-                                <a href="#"><span class="badge tag">Development</span></a>
-                                <a href="#"><span class="badge tag">Technology</span></a>
-                                <a href="#"><span class="badge tag">App</span></a>
-                                <a href="#"><span class="badge tag">Education</span></a>
-                                <a href="#"><span class="badge tag">Business</span></a>
-                                <a href="#"><span class="badge tag">Health</span></a>
-                                <a href="#"><span class="badge tag">Industry</span></a>
+                                <h4 class="title">Our Services</h4>
+                                <ul class="navbar-nav">
+                                    <li class="nav-item">
+                                        <a href="#services" class="nav-link">Mobile Apps Development</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="#services" class="nav-link">Desktop Apps Development</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="#services" class="nav-link">Web Apps Development</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="#services" class="nav-link">Website Development</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="#services" class="nav-link">Software Maintenance</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="#services" class="nav-link">Customer trainings</a>
+                                    </li>
+                                </ul>
                             </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
 
-        <!-- Copyright -->
-        <section id="copyright" class="p-3 odd copyright">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 col-md-6 p-3 text-center text-lg-left">
-                        <p>Enjoy the low price. We are tracking any intention of piracy.</p>
-                        <!--
-                                Suggestion: Replace the text above with a description of your website.
-                             -->
-                    </div>
-                    <div class="col-12 col-md-6 p-3 text-center text-lg-right">
-                        <p>© 2020 Leverage is Proudly Powered by <a href="https://themeforest.net/user/codingsdev"
-                                target="_blank">Codings</a>.</p>
+                        </div>
                     </div>
                 </div>
             </div>
