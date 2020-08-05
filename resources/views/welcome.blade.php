@@ -311,61 +311,81 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
+ 
+        </section>
 
-    <!-- About [image] -->
-    <section id="about" class="section-2 odd highlights image-right featured">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 col-md-6 align-self-center text-center text-md-left">
-                    <div class="row intro">
-                        <div class="col-12 p-0">
-                            <h2 class="featured alt">About Us</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent diam lacus, dapibus sed
-                                imperdiet consectetur.</p>
-                        </div>
-                    </div>
-                    <div class="row items">
-                        <div class="col-12 p-0">
-                            <div class="row item">
-                                <div class="col-12 col-md-2 align-self-center">
-                                    <i class="icon icon-grid"></i>
-                                </div>
-                                <div class="col-12 col-md-9 align-self-center">
-                                    <h4>Design</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                </div>
-                            </div>
-                            <div class="row item">
-                                <div class="col-12 col-md-2 align-self-center">
-                                    <i class="icon icon-fire"></i>
-                                </div>
-                                <div class="col-12 col-md-9 align-self-center">
-                                    <h4>Branding</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="gallery col-12 col-md-6">
-                    <a href="assets/images/about-10.jpg">
-                        <img src="assets/images/about-10.jpg" class="fit-image" alt="Fit Image">
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
+        <!-- About [image] -->
+        <section id="about" class="section-2 odd highlights image-right featured">
+              <div class="container">
+                  <div class="row">
+                      <div class="col-12 col-md-6 align-self-center text-center text-md-left">
+                          <div class="row intro">
+                              <div class="col-12 p-0">
+                                  <h3 class="featured alt">About Us</h3>
+                                  <p>Discover who really we are!!</p>
+                              </div>
+                          </div>
+                          <div class="row items">
+                              <div class="col-12 p-0">
+                                  <div class="row item">
+                                      <div class="col-12 col-md-9 align-self-center">
+                                          <h4>Our History</h4>
+                                          <p>We started right back in 2016 when a group of 3 individual that is to say Sharp, Alex and Brain (SAB) came together and brought up an idea to start Development software Applications.
+                                          </p>
+                                      </div>
+                                  </div>
+                                  <div class="row item">
+                                      <div class="col-12 col-md-9 align-self-center">
+                                          <h4>Our Mission</h4>
+                                          <p>To develop and deliver software products of the highest quality at affordable prices.</p>
+                                      </div>
+                                  </div>
+                                  <div class="row item">
+                                      <div class="col-12 col-md-9 align-self-center">
+                                          <h4>Our Vision</h4>
+                                          <p>To be the leading company at providing high standard Technology services most especially Software applications at affordable prices.</p>
+                                      </div>
+                                  </div>
 
-    <!-- About [video] -->
-    <section id="video" class="section-3 highlights image-center">
-        <div class="container short">
-            <div class="row text-center intro">
-                <div class="col-12">
-                    <h2>Watch the Video</h2>
-                    <p class="text-max-800">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquet ligula
-                        nec leo elementum semper. Mauris aliquet egestas metus, id pellentesque mauris tincidunt.</p>
+                                  <div class="row item">
+                                      <div class="col-12 col-md-9 align-self-center">
+                                          <h4>Our Core Values</h4>
+                                          <h6>Commitment</h6>
+                                          <p>We are committed and take responsibility for all our actions.</p>
+                                          <h6>Integrity</h6>
+                                          <p>We uphold honesty and integrity in everything that we put our hands on.</p>
+                                          <h6>Continuous Learning</h6>
+                                          <p>We admit to our mistakes and learn from them.  We actively seek feedback from those we serve and use it to eliminate errors, maximize value, provide better service, and enhance quality.
+                                          </p>
+                                          <h6>Respect</h6>
+                                          <p>We treat clients and colleagues with respect. We encourage the best ideas to surface from anywhere within the organization. We appreciate the value of multiple perspective and diverse expertise.
+                                          </p>
+                                          <h6>Teamwork</h6>
+                                          <p>We believe that through teamwork even the hardest challenges can be broken down into simpler ones. Our organization considers teamwork as a key attribute to achieve its main objectives. </p>
+                                      </div>
+                                  </div>
+
+                              </div>
+                          </div>
+                      </div>
+                      <div class="gallery col-12 col-md-6">
+                          <a href="assets/images/about-10.jpg">
+                              <img src="assets/images/about-10.jpg" class="fit-image" alt="Fit Image">
+                          </a>
+                      </div>
+                  </div>
+              </div>
+          </section>
+
+        <!-- About [video] -->
+        <section id="video" class="section-3 highlights image-center">
+            <div class="container short">
+                <div class="row text-center intro">
+                    <div class="col-12">
+                        <h2>Watch the Video</h2>
+                        <p class="text-max-800">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquet ligula nec leo elementum semper. Mauris aliquet egestas metus, id pellentesque mauris tincidunt.</p>
+                    </div>
+
                 </div>
             </div>
             <div class="row text-center">
@@ -577,51 +597,129 @@
                         <a href="#contact" class="smooth-anchor btn mx-auto primary-button"><i
                                 class="icon-arrow-right-circle"></i>CHOSE PLAN</a>
                     </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-4 align-self-center text-center item">
-                    <div class="card">
-                        <i class="icon icon-diamond"></i>
-                        <h4>Premium</h4>
-                        <span class="price"><i>$</i>299</span>
-                        <ul class="list-group list-group-flush">
-                            <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                <span>Unlimited Photos</span>
-                                <i class="icon-min m-0 icon-check text-right"></i>
-                            </li>
-                            <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                <span>Secure Online Transfer</span>
-                                <i class="icon-min m-0 icon-check text-right"></i>
-                            </li>
-                            <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                <span>Unlimited Styles</span>
-                                <i class="icon-min m-0 icon-check text-right"></i>
-                            </li>
-                            <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                <span>Customer Service</span>
-                                <i class="icon-min m-0 icon-check text-right"></i>
-                            </li>
-                            <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                <span>Manual Backup</span>
-                                <i class="icon-min m-0 icon-check text-right"></i>
-                            </li>
-                        </ul>
-                        <a href="#contact" class="smooth-anchor btn mx-auto primary-button"><i
-                                class="icon-arrow-right-circle"></i>CHOSE PLAN</a>
+
+                    <div class="swiper-container mid-slider items">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide slide-center text-center item">
+                                <div class="row card">
+                                    <div class="col-12">
+                                        <img src ="SAB-site/public/assets/images/Sharp.jpg" alt="CEO" class="person">
+
+                                        <h4>Mutungi Denis Sharp</h4>
+                                        <p>CEO / Co-Founder</p>
+                                        <p>Bachelors of Science in Software Engineering of Makerere University </p>
+
+                                        <ul class="navbar-nav social share-list ml-auto">
+                                            <li class="nav-item">
+                                                <a href="#" class="nav-link"><i class="icon-social-instagram"></i></a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="#" class="nav-link"><i class="icon-social-facebook"></i></a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="#" class="nav-link"><i class="icon-social-linkedin"></i></a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="#" class="nav-link"><i class="icon-social-twitter"></i></a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide slide-center text-center item">
+                                <div class="row card">
+                                    <div class="col-12">
+                                        <img src ="SAB-site/public/assets/images/Brain.jpg" alt="CEO" class="person">
+                                        <h4>Okoth Brain</h4>
+                                        <p>CTO / Co-Founder</p>
+                                        <p>Bachelors of Science in Software Engineering of Makerere University </p>
+                                        <ul class="navbar-nav social share-list ml-auto">
+                                            <li class="nav-item">
+                                                <a href="#" class="nav-link"><i class="icon-social-instagram"></i></a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="#" class="nav-link"><i class="icon-social-facebook"></i></a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="#" class="nav-link"><i class="icon-social-linkedin"></i></a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="#" class="nav-link"><i class="icon-social-twitter"></i></a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide slide-center text-center item">
+                                <div class="row card">
+                                    <div class="col-12">
+                                        <img src ="SAB-site/public/assets/images/Brain.jpg" alt="COO" class="person">
+                                        <h4>Niyonsaba Alex</h4>
+                                        <p>COO / Co-Founder</p>
+                                        <p>Bachelors of Science in Software Engineering of Makerere University </p>
+                                        <ul class="navbar-nav social share-list ml-auto">
+                                            <li class="nav-item">
+                                                <a href="#" class="nav-link"><i class="icon-social-instagram"></i></a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="#" class="nav-link"><i class="icon-social-facebook"></i></a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="#" class="nav-link"><i class="icon-social-linkedin"></i></a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="#" class="nav-link"><i class="icon-social-twitter"></i></a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide slide-center text-center item">
+                                <div class="row card">
+                                    <div class="col-12">
+                                        <img src ="SAB-site/public/assets/images/Brain.jpg" alt="CFO" class="person">
+                                        <h4>Kalema Anorld</h4>
+                                        <p>CFO / Chief Financial</p>
+                                        <p>Bachelors of Science in Software Engineering of Makerere University </p>
+                                        <ul class="navbar-nav social share-list ml-auto">
+                                            <li class="nav-item">
+                                                <a href="#" class="nav-link"><i class="icon-social-instagram"></i></a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="#" class="nav-link"><i class="icon-social-facebook"></i></a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="#" class="nav-link"><i class="icon-social-linkedin"></i></a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="#" class="nav-link"><i class="icon-social-twitter"></i></a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Team -->
-    <section id="team" class="section-7 odd carousel">
-        <div class="overflow-holder">
-            <div class="container">
-                <div class="row text-center intro">
-                    <div class="col-12">
-                        <h2>Team of Experts</h2>
-                        <p class="text-max-800">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent diam
-                            lacus, dapibus sed imperdiet.</p>
+
+
+        <!-- Testimonials -->
+        <section id="testimonials" class="section-8 carousel">
+            <div class="overflow-holder">
+                <div class="container">
+                    <div class="row text-center intro">
+                        <div class="col-12">
+                            <h2>Customer Testimonials</h2>
+                            <p class="text-max-800">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent diam lacus, dapibus sed imperdiet.</p>
+                        </div>
+
                     </div>
                 </div>
                 <div class="swiper-container mid-slider items">
